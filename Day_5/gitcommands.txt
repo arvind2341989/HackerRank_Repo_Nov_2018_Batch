@@ -1,0 +1,10 @@
+git config --global user.name "ccedececeec"
+git config --global user.email "xxxxxxxxxxx"
+
+
+git init XXXXXX
+git add xxx..x..x..xxx
+got rm xxxxxxx.x.x.x.xxx
+git commit -m "xxxxxxxxxx"
+
+
