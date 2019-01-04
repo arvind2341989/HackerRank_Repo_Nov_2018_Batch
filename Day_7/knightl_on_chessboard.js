@@ -1,10 +1,4 @@
-[1/2/2019 12:29:40 PM] *** Sainath Rao Mukhirala would like to add you on Skype
-
-Hi Kowshik Reddy Beeravolu, I'd like to add you as a contact. ***
-[1/2/2019 12:29:55 PM] *** Kowshik Reddy Beeravolu would like to add you on Skype ***
-[1/2/2019 12:30:30 PM] Kowshik Reddy Beeravolu: hii
-[3:39:26 PM] Sainath Rao Mukhirala: https://drive.google.com/drive/folders/1iir9mYW_QVmI2ruTiY7fM6QuvqVyZRWo
-[4:27:51 PM] Sainath Rao Mukhirala: process.stdin.resume();
+process.stdin.resume();
 process.stdin.setEncoding('ascii');
 
 var input_stdin = "";
