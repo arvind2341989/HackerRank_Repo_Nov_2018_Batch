@@ -11,5 +11,5 @@ public class Java1DArray {
             System.out.println(a[i]);
         }
     }
-}
+}  
 
